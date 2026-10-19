@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://project-artemis.onrender.com/$1"
-    }
-  ]
-}
