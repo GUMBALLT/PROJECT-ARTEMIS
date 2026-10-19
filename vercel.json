@@ -1,3 +1,8 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "https://onrender.com" }]
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://project-artemis.onrender.com/"
+    }
+  ]
 }
